@@ -1,4 +1,8 @@
 ows11-ideas
 ===========
 
-Ideas for OWS-11
+This repository contains the Ideas for OWS-11. The ideas are captured as issues in the tracker:
+https://github.com/opengeospatial/ows11-ideas/issues
+
+
+
